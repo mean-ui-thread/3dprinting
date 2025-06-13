@@ -5,7 +5,7 @@
 
 // === USER SETTINGS ===
 diameter = 50.0;            // [10:0.2:128] Inner diameter (mm)
-height = 10.6;               // [2:0.2:128] Total height (mm)
+height = 10.6;               // [2:0.2:128] Inner height (mm)
 top_lip_width = 5.0;        // [1:0.2:128] Top lip distance from inner diameter to the edge (mm)
 top_lip_thickness = 1.8;    // [1:0.2:128] Top lip thickness (mm)
 bottom_lip_width = 5.0;     // [1:0.2:128] Bottom lip distance from inner diameter to the edge (mm)
