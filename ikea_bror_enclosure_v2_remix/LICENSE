@@ -1,0 +1,22 @@
+Creative Commons Attribution-ShareAlike 4.0 International
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+## Attribution
+
+- Original author: [Thejiral](https://www.printables.com/@Thejiral)
+
+- Original work: [BROR Enclosure V2](https://www.printables.com/model/34759-bror-enclosure-v2)
+
+- Remix by: [Mean-UI-Thread](https://github.com/mean-ui-thread)
+
+## Changes
+1. Created laser cutting files for acrylic panel doors for Ikea Bror 84x54cm.
+2. Created a Bambu Studio Project:
+   - Imported every available STL.
+   - Performed required mirroring of models and grouped every pairs on separate print plates.
+   - Configured object infill settings at objects and regions of as directed in [BROR Enclosure V2](https://www.printables.com/model/34759-bror-enclosure-v2)
+
+### License Requirement
+You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
